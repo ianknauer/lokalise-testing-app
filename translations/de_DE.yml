@@ -1,3 +1,2 @@
-de_DE:
-    hello:
-        world: 'Hallo neue Welt...'
+hello:
+    world: 'Hallo neue Welt...'
