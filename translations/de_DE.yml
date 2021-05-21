@@ -1,2 +1,6 @@
+---
 hello:
-    world: 'Hallo neue Welt...'
+  world: 'Hallo neue Welt...'
+  testing: 'testing in german...'
+  testing2: 'testing in german'
+  testing3: 'testing in german'
