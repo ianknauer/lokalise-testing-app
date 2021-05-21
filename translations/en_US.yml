@@ -2,3 +2,4 @@ hello:
     world: 'Hello new world...'
     testing: 'testing...'
     testing2: 'testing'
+    testing3: 'testing'
